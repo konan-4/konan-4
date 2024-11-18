@@ -4,8 +4,7 @@ Hello, Thank you for visiting my Github. < br >
     This Github is the result of my efforts and business. < br >
       Let's work hard, create and develop.
         < br >
-        [![trophy](https://github-profile-trophy.vercel.app/?username=Bettgideon)](https://github.com/ryo-ma/github-profile-trophy)
-        <div style="display: flex; align-items: flex-start; align: center">
+         <div style="display: flex; align-items: flex-start; align: center">
           <table align="center">
             <tr>
               <td align="center" width="96">
@@ -70,17 +69,17 @@ Hello, Thank you for visiting my Github. < br >
           </table>
         </div >
         <div>
-          <span href="#">
+          <span style="display:inline-block;" >
             <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=smartluck1125&hide=html,scss,css,less&langs_count=8&layout=compact&theme=radical&card_width=150" />
           </span>
-          <span href="#">
+          <span style="display:inline-block;">
             <img src="https://github-profile-trophy.vercel.app/?username=ivankharak&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=radical&rows=2&column=3"/>
           </span> 
         </div>
         <div>
           [![trophy](https://github-profile-trophy.vercel.app/?username=Bettgideon)](https://github.com/ryo-ma/github-profile-trophy)
           <br>
-          [![Dhanush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhan-profile&theme=high-contrast)](https://github.com/dhan-profile/github-readme-activity-graph)
+          [![Dhanush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=coderprovider&theme=high-contrast)](https://github.com/dhan-profile/github-readme-activity-graph)
         </div>
 
 
