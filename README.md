@@ -70,7 +70,7 @@ Hello, Thank you for visiting my Github. < br >
         </div >
         <div>
           <span style="display:inline-block;" >
-            <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=smartluck1125&hide=html,scss,css,less&langs_count=8&layout=compact&theme=radical&card_width=150" />
+            <img height=200 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=smartluck1125&hide=html,scss,css,less&langs_count=8&layout=compact&theme=radical&card_width=150" />
           </span>
           <span style="display:inline-block;">
             <img src="https://github-profile-trophy.vercel.app/?username=ivankharak&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=radical&rows=2&column=3"/>
