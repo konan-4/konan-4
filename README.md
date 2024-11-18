@@ -68,7 +68,7 @@ Hello, Thank you for visiting my Github. < br >
             </tr>
           </table>
         </div >
-        <div align="center;">
+        <div align = "center">
           <span style="display:inline-block;" >
             <img height=200 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=coderprovider&hide=solidity,rust,react,typescript&langs_count=8&layout=compact&theme=radical&card_width=150" />
           </span>
